@@ -1,0 +1,19 @@
+.title_boss .van-nav-bar__text {
+	font-size: .4rem;
+	color: #fff;
+}
+.expect .van-nav-bar__text {
+	color: #0000ff;
+}
+div.van-grid-item div.van_grid_item_focus {
+  border: 1px solid #14c1bb;
+  background: #def6f6;
+}
+/* .van-sticky {
+	height: 75px;
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 99;
+} */
